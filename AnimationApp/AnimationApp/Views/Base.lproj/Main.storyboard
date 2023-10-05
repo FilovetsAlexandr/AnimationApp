@@ -22,26 +22,26 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="saL-Bs-v56">
-                                    <size key="itemSize" width="337" height="182"/>
+                                    <size key="itemSize" width="349" height="190"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
                                     <size key="footerReferenceSize" width="0.0" height="0.0"/>
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CarouselCell" id="yji-lP-Rbe" customClass="CarouselCell" customModule="AnimationApp" customModuleProvider="target">
-                                        <rect key="frame" x="10.666666666666666" y="0.0" width="337" height="182"/>
+                                        <rect key="frame" x="4.666666666666667" y="0.0" width="349" height="190"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="7np-4d-AMZ">
-                                            <rect key="frame" x="0.0" y="0.0" width="337" height="182"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="349" height="190"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Rcv-d4-XYt">
-                                                    <rect key="frame" x="8" y="8" width="327" height="162"/>
+                                                    <rect key="frame" x="8" y="8" width="329" height="201"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </collectionViewCellContentView>
-                                        <size key="customSize" width="337" height="182"/>
+                                        <size key="customSize" width="349" height="190"/>
                                         <connections>
                                             <outlet property="imageView" destination="Rcv-d4-XYt" id="wXn-1U-H10"/>
                                         </connections>
@@ -61,9 +61,12 @@
                                 <rect key="frame" x="16" y="551" width="358" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Запустить анимацию">
-                                    <fontDescription key="titleFontDescription" type="boldSystem" pointSize="23"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Запустить случайную анимацию">
+                                    <fontDescription key="titleFontDescription" type="boldSystem" pointSize="20"/>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="lottiButtonAction:" destination="wVB-MU-eoy" eventType="touchUpInside" id="gCL-Rz-oyi"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Выбрать анимацию вручную" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FjU-ge-U1u">
                                 <rect key="frame" x="16" y="134" width="264" height="24"/>

@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		846A96B732C6E444EB8B6458 /* Pods_AnimationApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFEDDB59348B9129C460D854 /* Pods_AnimationApp.framework */; };
+		F46959B02ACDE76900649CC4 /* honeycombs.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599A2ACDE76900649CC4 /* honeycombs.json */; };
+		F46959B12ACDE76900649CC4 /* turkey.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599B2ACDE76900649CC4 /* turkey.json */; };
+		F46959B22ACDE76900649CC4 /* shark.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599C2ACDE76900649CC4 /* shark.json */; };
+		F46959B32ACDE76900649CC4 /* savings-pig.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599D2ACDE76900649CC4 /* savings-pig.json */; };
+		F46959B42ACDE76900649CC4 /* pets.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599E2ACDE76900649CC4 /* pets.json */; };
+		F46959B52ACDE76900649CC4 /* bear.json in Resources */ = {isa = PBXBuildFile; fileRef = F469599F2ACDE76900649CC4 /* bear.json */; };
+		F46959B62ACDE76900649CC4 /* snake.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A02ACDE76900649CC4 /* snake.json */; };
+		F46959B72ACDE76900649CC4 /* spider.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A12ACDE76900649CC4 /* spider.json */; };
+		F46959B82ACDE76900649CC4 /* squirrel.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A22ACDE76900649CC4 /* squirrel.json */; };
+		F46959B92ACDE76900649CC4 /* bee.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A32ACDE76900649CC4 /* bee.json */; };
+		F46959BA2ACDE76900649CC4 /* cat-head.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A42ACDE76900649CC4 /* cat-head.json */; };
+		F46959BB2ACDE76900649CC4 /* sphere.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A52ACDE76900649CC4 /* sphere.json */; };
+		F46959BC2ACDE76900649CC4 /* wings.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A62ACDE76900649CC4 /* wings.json */; };
+		F46959BD2ACDE76900649CC4 /* horse.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A72ACDE76900649CC4 /* horse.json */; };
+		F46959BE2ACDE76900649CC4 /* maneki-cat.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A82ACDE76900649CC4 /* maneki-cat.json */; };
+		F46959BF2ACDE76900649CC4 /* paws-animal-morph.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959A92ACDE76900649CC4 /* paws-animal-morph.json */; };
+		F46959C02ACDE76900649CC4 /* coral.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AA2ACDE76900649CC4 /* coral.json */; };
+		F46959C12ACDE76900649CC4 /* woodpecker.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AB2ACDE76900649CC4 /* woodpecker.json */; };
+		F46959C22ACDE76900649CC4 /* duck.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AC2ACDE76900649CC4 /* duck.json */; };
+		F46959C32ACDE76900649CC4 /* home.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AD2ACDE76900649CC4 /* home.json */; };
+		F46959C42ACDE76900649CC4 /* 3-d.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AE2ACDE76900649CC4 /* 3-d.json */; };
+		F46959C52ACDE76900649CC4 /* frysztak-town.json in Resources */ = {isa = PBXBuildFile; fileRef = F46959AF2ACDE76900649CC4 /* frysztak-town.json */; };
+		F46959C72ACEA03600649CC4 /* AnimationsModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46959C62ACEA03600649CC4 /* AnimationsModels.swift */; };
 		F4ED857A2ACD8F4A006B9CFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ED85792ACD8F4A006B9CFB /* AppDelegate.swift */; };
 		F4ED857C2ACD8F4A006B9CFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ED857B2ACD8F4A006B9CFB /* SceneDelegate.swift */; };
 		F4ED857E2ACD8F4A006B9CFB /* CarouselViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ED857D2ACD8F4A006B9CFB /* CarouselViewController.swift */; };
@@ -17,6 +41,32 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		067549404A99EA23B7A3F7C4 /* Pods-AnimationApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnimationApp.release.xcconfig"; path = "Target Support Files/Pods-AnimationApp/Pods-AnimationApp.release.xcconfig"; sourceTree = "<group>"; };
+		A5B3C9BD45FA98AC4769FAAD /* Pods-AnimationApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnimationApp.debug.xcconfig"; path = "Target Support Files/Pods-AnimationApp/Pods-AnimationApp.debug.xcconfig"; sourceTree = "<group>"; };
+		CFEDDB59348B9129C460D854 /* Pods_AnimationApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnimationApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F469599A2ACDE76900649CC4 /* honeycombs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = honeycombs.json; sourceTree = "<group>"; };
+		F469599B2ACDE76900649CC4 /* turkey.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = turkey.json; sourceTree = "<group>"; };
+		F469599C2ACDE76900649CC4 /* shark.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = shark.json; sourceTree = "<group>"; };
+		F469599D2ACDE76900649CC4 /* savings-pig.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "savings-pig.json"; sourceTree = "<group>"; };
+		F469599E2ACDE76900649CC4 /* pets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pets.json; sourceTree = "<group>"; };
+		F469599F2ACDE76900649CC4 /* bear.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bear.json; sourceTree = "<group>"; };
+		F46959A02ACDE76900649CC4 /* snake.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = snake.json; sourceTree = "<group>"; };
+		F46959A12ACDE76900649CC4 /* spider.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = spider.json; sourceTree = "<group>"; };
+		F46959A22ACDE76900649CC4 /* squirrel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = squirrel.json; sourceTree = "<group>"; };
+		F46959A32ACDE76900649CC4 /* bee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bee.json; sourceTree = "<group>"; };
+		F46959A42ACDE76900649CC4 /* cat-head.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "cat-head.json"; sourceTree = "<group>"; };
+		F46959A52ACDE76900649CC4 /* sphere.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sphere.json; sourceTree = "<group>"; };
+		F46959A62ACDE76900649CC4 /* wings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = wings.json; sourceTree = "<group>"; };
+		F46959A72ACDE76900649CC4 /* horse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = horse.json; sourceTree = "<group>"; };
+		F46959A82ACDE76900649CC4 /* maneki-cat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "maneki-cat.json"; sourceTree = "<group>"; };
+		F46959A92ACDE76900649CC4 /* paws-animal-morph.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "paws-animal-morph.json"; sourceTree = "<group>"; };
+		F46959AA2ACDE76900649CC4 /* coral.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = coral.json; sourceTree = "<group>"; };
+		F46959AB2ACDE76900649CC4 /* woodpecker.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = woodpecker.json; sourceTree = "<group>"; };
+		F46959AC2ACDE76900649CC4 /* duck.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = duck.json; sourceTree = "<group>"; };
+		F46959AD2ACDE76900649CC4 /* home.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = home.json; sourceTree = "<group>"; };
+		F46959AE2ACDE76900649CC4 /* 3-d.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "3-d.json"; sourceTree = "<group>"; };
+		F46959AF2ACDE76900649CC4 /* frysztak-town.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "frysztak-town.json"; sourceTree = "<group>"; };
+		F46959C62ACEA03600649CC4 /* AnimationsModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsModels.swift; sourceTree = "<group>"; };
 		F4ED85762ACD8F4A006B9CFB /* AnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4ED85792ACD8F4A006B9CFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4ED857B2ACD8F4A006B9CFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,17 +83,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846A96B732C6E444EB8B6458 /* Pods_AnimationApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96750A2787AFDDF66F6E8913 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A5B3C9BD45FA98AC4769FAAD /* Pods-AnimationApp.debug.xcconfig */,
+				067549404A99EA23B7A3F7C4 /* Pods-AnimationApp.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		BE4EB706825762AD04E1408D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFEDDB59348B9129C460D854 /* Pods_AnimationApp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		F4ED856D2ACD8F4A006B9CFB = {
 			isa = PBXGroup;
 			children = (
 				F4ED85782ACD8F4A006B9CFB /* AnimationApp */,
 				F4ED85772ACD8F4A006B9CFB /* Products */,
+				96750A2787AFDDF66F6E8913 /* Pods */,
+				BE4EB706825762AD04E1408D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,7 +150,7 @@
 		F4ED858E2ACD8FA9006B9CFB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F4ED85922ACD9026006B9CFB /* Animation */,
+				F4ED85922ACD9026006B9CFB /* Animations */,
 				F4ED85822ACD8F4C006B9CFB /* Assets.xcassets */,
 			);
 			path = Resources;
@@ -107,15 +177,38 @@
 		F4ED85912ACD8FF7006B9CFB /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				F46959C62ACEA03600649CC4 /* AnimationsModels.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		F4ED85922ACD9026006B9CFB /* Animation */ = {
+		F4ED85922ACD9026006B9CFB /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				F46959AE2ACDE76900649CC4 /* 3-d.json */,
+				F469599F2ACDE76900649CC4 /* bear.json */,
+				F46959A32ACDE76900649CC4 /* bee.json */,
+				F46959A42ACDE76900649CC4 /* cat-head.json */,
+				F46959AA2ACDE76900649CC4 /* coral.json */,
+				F46959AC2ACDE76900649CC4 /* duck.json */,
+				F46959AF2ACDE76900649CC4 /* frysztak-town.json */,
+				F46959AD2ACDE76900649CC4 /* home.json */,
+				F469599A2ACDE76900649CC4 /* honeycombs.json */,
+				F46959A72ACDE76900649CC4 /* horse.json */,
+				F46959A82ACDE76900649CC4 /* maneki-cat.json */,
+				F46959A92ACDE76900649CC4 /* paws-animal-morph.json */,
+				F469599E2ACDE76900649CC4 /* pets.json */,
+				F469599D2ACDE76900649CC4 /* savings-pig.json */,
+				F469599C2ACDE76900649CC4 /* shark.json */,
+				F46959A02ACDE76900649CC4 /* snake.json */,
+				F46959A52ACDE76900649CC4 /* sphere.json */,
+				F46959A12ACDE76900649CC4 /* spider.json */,
+				F46959A22ACDE76900649CC4 /* squirrel.json */,
+				F469599B2ACDE76900649CC4 /* turkey.json */,
+				F46959A62ACDE76900649CC4 /* wings.json */,
+				F46959AB2ACDE76900649CC4 /* woodpecker.json */,
 			);
-			path = Animation;
+			path = Animations;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +218,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4ED858A2ACD8F4C006B9CFB /* Build configuration list for PBXNativeTarget "AnimationApp" */;
 			buildPhases = (
+				097BF53D162BCD57F13E842B /* [CP] Check Pods Manifest.lock */,
 				F4ED85722ACD8F4A006B9CFB /* Sources */,
 				F4ED85732ACD8F4A006B9CFB /* Frameworks */,
 				F4ED85742ACD8F4A006B9CFB /* Resources */,
+				C8AA652626274FB5464DDF5E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -176,13 +271,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F46959BA2ACDE76900649CC4 /* cat-head.json in Resources */,
+				F46959BE2ACDE76900649CC4 /* maneki-cat.json in Resources */,
+				F46959B52ACDE76900649CC4 /* bear.json in Resources */,
+				F46959B32ACDE76900649CC4 /* savings-pig.json in Resources */,
+				F46959B62ACDE76900649CC4 /* snake.json in Resources */,
+				F46959BB2ACDE76900649CC4 /* sphere.json in Resources */,
+				F46959C32ACDE76900649CC4 /* home.json in Resources */,
+				F46959BF2ACDE76900649CC4 /* paws-animal-morph.json in Resources */,
+				F46959C52ACDE76900649CC4 /* frysztak-town.json in Resources */,
+				F46959B92ACDE76900649CC4 /* bee.json in Resources */,
+				F46959BD2ACDE76900649CC4 /* horse.json in Resources */,
 				F4ED85862ACD8F4C006B9CFB /* LaunchScreen.storyboard in Resources */,
+				F46959B82ACDE76900649CC4 /* squirrel.json in Resources */,
+				F46959C42ACDE76900649CC4 /* 3-d.json in Resources */,
 				F4ED85832ACD8F4C006B9CFB /* Assets.xcassets in Resources */,
+				F46959C22ACDE76900649CC4 /* duck.json in Resources */,
+				F46959B72ACDE76900649CC4 /* spider.json in Resources */,
+				F46959BC2ACDE76900649CC4 /* wings.json in Resources */,
+				F46959B02ACDE76900649CC4 /* honeycombs.json in Resources */,
 				F4ED85812ACD8F4A006B9CFB /* Main.storyboard in Resources */,
+				F46959B42ACDE76900649CC4 /* pets.json in Resources */,
+				F46959B12ACDE76900649CC4 /* turkey.json in Resources */,
+				F46959C12ACDE76900649CC4 /* woodpecker.json in Resources */,
+				F46959B22ACDE76900649CC4 /* shark.json in Resources */,
+				F46959C02ACDE76900649CC4 /* coral.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		097BF53D162BCD57F13E842B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AnimationApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C8AA652626274FB5464DDF5E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AnimationApp/Pods-AnimationApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AnimationApp/Pods-AnimationApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AnimationApp/Pods-AnimationApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F4ED85722ACD8F4A006B9CFB /* Sources */ = {
@@ -190,6 +349,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4ED857E2ACD8F4A006B9CFB /* CarouselViewController.swift in Sources */,
+				F46959C72ACEA03600649CC4 /* AnimationsModels.swift in Sources */,
 				F4ED857A2ACD8F4A006B9CFB /* AppDelegate.swift in Sources */,
 				F4ED857C2ACD8F4A006B9CFB /* SceneDelegate.swift in Sources */,
 				F4ED85942ACD95DC006B9CFB /* CarouselCell.swift in Sources */,
@@ -339,12 +499,14 @@
 		};
 		F4ED858B2ACD8F4C006B9CFB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A5B3C9BD45FA98AC4769FAAD /* Pods-AnimationApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 94FVSLY3WZ;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AnimationApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -367,12 +529,14 @@
 		};
 		F4ED858C2ACD8F4C006B9CFB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 067549404A99EA23B7A3F7C4 /* Pods-AnimationApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 94FVSLY3WZ;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AnimationApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
